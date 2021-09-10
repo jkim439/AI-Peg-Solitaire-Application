@@ -1,0 +1,10 @@
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\bin\Debug\Peg-Solitaire.exe.config
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\bin\Debug\Peg-Solitaire.exe
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\bin\Debug\Peg-Solitaire.pdb
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\obj\Debug\Peg_Solitaire.frm_menu.resources
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\obj\Debug\Peg_Solitaire.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\obj\Debug\Peg-Solitaire.csproj.GenerateResource.cache
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\obj\Debug\Peg-Solitaire.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\obj\Debug\Peg-Solitaire.exe
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\obj\Debug\Peg-Solitaire.pdb
+C:\Users\Nathan\Documents\GitHub\AI-Spring2020-Peg-Solitaire\Peg-Solitaire\Peg-Solitaire\obj\Debug\Peg-Solitaire.csprojAssemblyReference.cache
